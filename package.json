@@ -1,6 +1,6 @@
 {
   "name": "@juniorUsca/csv-writer",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Convert objects/arrays into a CSV string or write them into a CSV file",
   "main": "dist/index.js",
   "types": "src/index.ts",
